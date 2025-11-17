@@ -25,5 +25,5 @@ module.exports = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  // Removed plugins - animations are now built into Tailwind v3.4+
 }
